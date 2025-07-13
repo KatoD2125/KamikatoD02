@@ -9,7 +9,7 @@ const chalk = require('chalk');
 
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
 
-global.owner = ['6282113821188'] //['628','628'] 2 owner atau lebih
+global.owner = ['6282113821188','6287793464004'] //['628','628'] 2 owner atau lebih
 global.listprefix = ['+','!','.']
 global.listv = ['•','●','■','✿','▲','➩','➢','➣','➤','✦','✧','△','❀','○','□','♤','♡','◇','♧','々','〆']
 global.tempatDB = 'database.json' // Taruh url mongodb di sini jika menggunakan mongodb. Format : 'mongodb+srv://...'
@@ -26,36 +26,36 @@ global.fake = {
 }
 
 global.my = {
-	yt: 'https://youtube.com/c/Nazedev',
-	gh: 'https://github.com/nazedev',
-	gc: 'https://chat.whatsapp.com/B5qJIwZHm4VEYZJQE6iMwy',
+	yt: 'https://youtube.com/@kamikaze_06?si=KTpgPD8ijViO8-zA',
+	gh: 'https://github.com/KatoD2125',
+	gc: 'https://chat.whatsapp.com/E66XtuY5q6uDSKp6LdIBcp',
 	ch: '120363250409960161@newsletter',
 }
 
 global.limit = {
 	free: 20,
-	premium: 999,
+	premium: 100,
 	vip: 9999
 }
 
 global.money = {
-	free: 10000,
-	premium: 1000000,
+	free: 1000,
+	premium: 10000,
 	vip: 10000000
 }
 
 global.mess = {
 	key: 'Apikey mu telah habis silahkan kunjungi\nhttps://my.hitori.pw',
-	owner: 'Fitur Khusus Owner!',
-	admin: 'Fitur Khusus Admin!',
-	botAdmin: 'Bot Bukan Admin!',
-	group: 'Gunakan Di Group!',
-	private: 'Gunakan Di Privat Chat!',
-	limit: 'Limit Anda Telah Habis!',
-	prem: 'Khusus User Premium!',
-	wait: 'Loading...',
-	error: 'Error!',
-	done: 'Done'
+	owner: 'Fitur Buat Owner Tod!',
+	admin: 'Fitur Buat Admin Tod!',
+	botAdmin: 'Bot Belum Admin Tod!',
+	group: 'Cuma Buat Di Group Tod!',
+	private: 'Cuma Buat Di Private Chat Tod!',
+	limit: 'Limit Lu Habis Tod!',
+	prem: 'Khusus Prem Tod, Dasar Miskin!',
+	wait: 'Sabar Tod...',
+	error: 'Kacaw Tod!',
+	done: 'Done Uyy'
 }
 
 global.APIs = {
