@@ -46,16 +46,16 @@ global.money = {
 
 global.mess = {
 	key: 'Apikey mu telah habis silahkan kunjungi\nhttps://my.hitori.pw',
-	owner: 'Fitur Buat Owner Tod!',
-	admin: 'Fitur Buat Admin Tod!',
-	botAdmin: 'Bot Belum Admin Tod!',
-	group: 'Cuma Buat Di Group Tod!',
-	private: 'Cuma Buat Di Private Chat Tod!',
-	limit: 'Limit Lu Habis Tod!',
-	prem: 'Khusus Prem Tod, Dasar Miskin!',
-	wait: 'Sabar Tod...',
-	error: 'Kacaw Tod!',
-	done: 'Done Uyy'
+	owner: '`Fitur Buat Owner Tod!`',
+	admin: '`Fitur Buat Admin Tod!`',
+	botAdmin: '`Bot Belum Admin Tod!`',
+	group: '`Cuma Buat Di Group Tod!`',
+	private: '`Cuma Buat Di Private Chat Tod!`',
+	limit: '`Limit Lu Habis Tod!`',
+	prem: '`Khusus Prem Tod, Dasar Miskin😂`',
+	wait: '`Sabar Tod...`',
+	error: '`Kacaw Tod🗿`',
+	done: '`Done Uyy`'
 }
 
 global.APIs = {
